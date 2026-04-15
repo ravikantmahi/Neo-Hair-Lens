@@ -1,0 +1,144 @@
+CollapsedEntities:
+  type: stringset
+  value:
+    size: 138
+    values:
+      - Hair Resources/Hair Data/beard.hair
+      - Hair Resources/Hair Data/casual_short_straight.hair
+      - Hair Resources/Hair Data/curly_blonde.hair
+      - Hair Resources/Hair Data/curly_blonde_front.hair
+      - Hair Resources/Hair Data/curly_blue.hair
+      - Hair Resources/Hair Data/curly_long.hair
+      - Hair Resources/Hair Data/messy_long.hair
+      - Hair Resources/Hair Data/mustache1.hair
+      - Hair Resources/Hair Data/mustache2.hair
+      - Hair Resources/Hair Data/mustache3.hair
+      - Hair Resources/Hair Data/pointy_green.hair
+      - Hair Resources/Hair Data/ponytails_and_bangs.hair
+      - Hair Resources/Hair Data/ponytails_top_rear.hair
+      - Hair Resources/Hair Data/short_and_sleek.hair
+      - Hair Resources/Hair Data/single_bun_front.hair
+      - Hair Resources/Hair Data/single_bun_top.hair
+      - Hair Resources/Hair Data/smooth_and_straight.hair
+      - Hair Resources/Hair Data/wavy_secondary_layer.hair
+      - Hair Resources/Hair Data/wavy_top_layer.hair
+      - Hair Resources/ML Resources
+      - Hair Resources/ML Resources/Face Crop Texture Wide.faceCropTexture
+      - Hair Resources/ML Resources/ML Bald.mat
+      - Hair Resources/ML Resources/bald_model.dnn
+      - Hair Resources/ML Resources/output_0 Proxy Texture.proxyTexture
+      - Hair Resources/Materials
+      - Hair Resources/Materials/Blur Material HQ.mat
+      - Hair Resources/Materials/Blur Material LQ.mat
+      - Hair Resources/Materials/Graph Occluder MRT.mat
+      - Hair Resources/Materials/Hair Materials
+      - Hair Resources/Materials/Hair Materials/Facial Hair Beard.mat
+      - Hair Resources/Materials/Hair Materials/Facial Hair Mustache 1.mat
+      - Hair Resources/Materials/Hair Materials/Facial Hair Mustache 2.mat
+      - Hair Resources/Materials/Hair Materials/Hair Blonde Bang.mat
+      - Hair Resources/Materials/Hair Materials/Hair Blonde Curly.mat
+      - Hair Resources/Materials/Hair Materials/Hair Brown.mat
+      - Hair Resources/Materials/Hair Materials/Hair Curly Blue.mat
+      - Hair Resources/Materials/Hair Materials/Hair Dreamy Purple Bang.mat
+      - Hair Resources/Materials/Hair Materials/Hair Dreamy Purple.mat
+      - Hair Resources/Materials/Hair Materials/Hair Glowing Orange.mat
+      - Hair Resources/Materials/Hair Materials/Hair Gradient Pink Blue.mat
+      - Hair Resources/Materials/Hair Materials/Hair Neon Green.mat
+      - Hair Resources/Materials/Hair Materials/Hair Pink.mat
+      - Hair Resources/Materials/Hair Materials/Hair Pompom Red.mat
+      - Hair Resources/Materials/Hair Materials/Hair Shiny Silver.mat
+      - Hair Resources/Materials/Hair Materials/Hair Wavy Gradient Blue.mat
+      - Hair Resources/Materials/Head with Shadow MRT.mat
+      - Hair Resources/Meshes/Face Mesh.facemesh
+      - Hair Resources/Meshes/Head Collider.hscollider
+      - Hair Resources/Meshes/Head Occluder.mesh
+      - Hair Resources/Meshes/Neck Occluder.mesh
+      - Hair Resources/Render Targets/Hair Tangents Output.renderTarget
+      - Hair Resources/Scripts/GravityController.js
+      - Hair Resources/Scripts/HairBlurController.js
+      - Hair Resources/Scripts/OptimizationController.js
+      - Hair Resources/Shaders/Blur Material HQ.ss_graph
+      - Hair Resources/Shaders/Blur Material LQ.ss_graph
+      - Hair Resources/Shaders/Graph Occluder MRT.ss_graph
+      - Hair Resources/Shaders/Hair
+      - Hair Resources/Shaders/Hair/Hair 1.ss_graph
+      - Hair Resources/Shaders/Hair/Hair 2.ss_graph
+      - Hair Resources/Shaders/Hair/Hair 3.ss_graph
+      - Hair Resources/Shaders/Hair/Hair 4.ss_graph
+      - Hair Resources/Shaders/Hair/Hair 5.ss_graph
+      - Hair Resources/Shaders/Hair/Hair 6.ss_graph
+      - Hair Resources/Shaders/Head with Shadow MRT.ss_graph
+      - Hair Resources/Shaders/ML Bald.ss_graph
+      - Hair Resources/Textures
+      - Hair Resources/Textures/Alpha
+      - Hair Resources/Textures/Alpha/alpha_curly_big.png
+      - Hair Resources/Textures/Alpha/alpha_curly_thin.png
+      - Hair Resources/Textures/Alpha/alpha_curly_wavy_long.png
+      - Hair Resources/Textures/Alpha/alpha_natural_thick.png
+      - Hair Resources/Textures/Alpha/alpha_smallcurl_double.png
+      - Hair Resources/Textures/Alpha/alpha_smallcurl_single.png
+      - Hair Resources/Textures/Alpha/alpha_straight.png
+      - Hair Resources/Textures/Alpha/alpha_straight_thick_1.png
+      - Hair Resources/Textures/Contrast
+      - Hair Resources/Textures/Contrast/lit_Contrast.jpg
+      - Hair Resources/Textures/Contrast/lit_dark.jpg
+      - Hair Resources/Textures/Contrast/lit_default_light.jpg
+      - Hair Resources/Textures/Contrast/lit_lowcontrast1.jpg
+      - Hair Resources/Textures/Contrast/lit_lowcontrast2.jpg
+      - Hair Resources/Textures/Contrast/lit_mild.jpg
+      - Hair Resources/Textures/Contrast/lit_reflective.jpg
+      - Hair Resources/Textures/Direction
+      - Hair Resources/Textures/Direction/direction_1.jpg
+      - Hair Resources/Textures/Direction/direction_2.jpg
+      - Hair Resources/Textures/Direction/hair_curly_param.jpg
+      - Hair Resources/Textures/Intensity
+      - Hair Resources/Textures/Intensity/beard_intensity.jpg
+      - Hair Resources/Textures/Intensity/hair_intensity_gradient.jpg
+      - Materials
+      - Materials/Face Paint Eyeshadow_MRT.mat
+      - Materials/Face Paint Lips_MRT.mat
+      - Materials/Face Paint Stars_MRT.mat
+      - Materials/Glasses Frames_MRT.mat
+      - Materials/Glasses Lenses_MRT.mat
+      - Materials/Headband Leaf_MRT.mat
+      - Materials/Headband Rose MRT.mat
+      - Materials/Headband_MRT.mat
+      - Materials/Vignette.mat
+      - Models
+      - Models/Flower Headband/headband.mesh
+      - Models/Flower Headband/leaf_01.mesh
+      - Models/Flower Headband/leaf_02.mesh
+      - Models/Flower Headband/leaf_03.mesh
+      - Models/Flower Headband/leaf_04.mesh
+      - Models/Sunglasses/glasses_frames.mesh
+      - Models/Sunglasses/glasses_lenses.mesh
+      - Shaders
+      - Shaders/Face Paint Eyeshadow_MRT.ss_graph
+      - Shaders/Face Paint Lips_MRT.ss_graph
+      - Shaders/Face Paint Stars_MRT.ss_graph
+      - Shaders/Glasses Frames_MRT.ss_graph
+      - Shaders/Glasses Lenses_MRT.ss_graph
+      - Shaders/Headband Leaf_MRT.ss_graph
+      - Shaders/Headband Rose_MRT.ss_graph
+      - Shaders/Headband_MRT.ss_graph
+      - Shaders/Vignette.ss_graph
+      - Textures
+      - Textures/Device Camera Texture.deviceCameraTexture
+      - Textures/Echopark.hdr
+      - Textures/Facemask/facemask_eyeshadow.png
+      - Textures/Facemask/facemask_lips.png
+      - Textures/Facemask/facemask_stars.png
+      - Textures/Flower Headband
+      - Textures/Flower Headband/braids.png
+      - Textures/Flower Headband/leaf.png
+      - Textures/Flower Headband/leaf_n.jpg
+      - Textures/Flower Headband/petal.png
+      - Textures/Flower Headband/petal_n.jpg
+      - Textures/Flower Headband/petal_params.png
+      - Textures/Render Target.renderTarget
+      - Textures/glasses_gradient.png
+      - Textures/white.png
+      - VFX
+      - VFX/Bokeh.vfxgraph
+      - VFX/hexagon_bokeh.jpg
+  options: 4

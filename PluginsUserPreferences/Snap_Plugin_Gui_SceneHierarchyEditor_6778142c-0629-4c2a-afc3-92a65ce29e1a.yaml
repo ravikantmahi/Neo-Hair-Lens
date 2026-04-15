@@ -1,0 +1,52 @@
+CollapsedEntities:
+  type: stringset
+  value:
+    size: 41
+    values:
+      - 0c8f8ff1-b93a-4fee-aa6d-013fff65dc22
+      - 29f1d0b5-59a6-4206-b6a7-292a7e2cc151
+      - 31a913b1-5181-4253-b101-5e89cbd7a19e
+      - 34f06e47-6b16-436d-a80a-fccac8a49cde
+      - 366f534d-f331-4a77-84a2-75c39e3ab25c
+      - 375b431e-36e6-4752-af8c-044ee6e248f8
+      - 3a502835-bb04-4565-b13b-8c4e1fcb640f
+      - 3c34f7b2-c6b7-41ff-a8b5-23b8470909b7
+      - 3f0123fe-3fff-4dc2-9b02-617f687ec109
+      - 4152d66e-dc88-4a07-9ba0-c8cdabe54e2b
+      - 4dc783ce-69a0-443e-90e9-9d95288d50ed
+      - 51184a0a-2fa5-4969-abf1-049c575519d6
+      - 536a313c-aa31-40e5-b1a7-eb57e6b4103e
+      - 55529b6c-46ea-4259-80e5-05d9a56c08d5
+      - 574b030f-ee0d-4805-95da-fece504d1571
+      - 609f589a-c8ea-43a2-b1a7-7304e83f31e5
+      - 65eeb958-9929-4bb3-8166-a981c9c8d13f
+      - 6b5d4b39-985e-425d-ad54-5c027f9afda7
+      - 6d4ddc0d-171c-4573-b53e-3442061d4fb0
+      - 767d3865-e70a-42f5-bcd3-45a3a012c614
+      - 7b2c62d2-b0c9-468b-a394-6c1ad3bf0bb9
+      - 7e61fd31-d045-44f1-bb11-eccf69d35ffc
+      - 9e57b3f2-77c3-4ae4-8a17-db65658560a4
+      - a1d759b0-1f32-4643-8880-60d5284b1c02
+      - aa4adb32-a65a-4b8b-894e-48f3ff03dc43
+      - addf0d46-a7c2-4734-8602-2ea1ff86e0dd
+      - b3527d83-d470-46f4-a7ed-1e7c5514c751
+      - b81e88b1-358c-4159-b24b-ba95183a43c0
+      - b88866fa-ca21-42ca-8541-c68512d8ac09
+      - b8ade95a-22b2-45cd-b0da-31280434d8ec
+      - ba35040b-7936-467d-9449-8a6d4c0906ba
+      - bfe89b6e-2252-49ad-81b8-870c45078945
+      - c1ea59ba-b08b-49e3-b7ac-d0f2408f9273
+      - c1fa893a-09a4-4c71-867f-478f8d5ada59
+      - c5707147-2938-4670-ab63-3fa444499d34
+      - c793dff0-11ea-415b-a36d-d126ce650743
+      - cb263c0b-7915-4053-b1d4-805b74f4a836
+      - ce3b621a-442f-42a7-8cdb-70771d1bca5e
+      - d9595191-fea6-460f-a2db-d57e4eeee49c
+      - e877f9b9-cf64-44db-8508-0971a9f5ddc6
+      - fe41cf16-66f8-44f7-a8d1-ccf192857eb0
+  options: 4
+PinnedEntities:
+  type: uuids
+  value:
+    size: 0
+  options: 4

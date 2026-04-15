@@ -1,0 +1,54 @@
+studioVersion:
+  major: 5
+  minor: 20
+  patch: 0
+  build: 26040820
+  type: Public
+coreVersion: 356
+clientVersion: 13.86
+updateCheckpoint: 96
+sceneId: 0a1ccb1a-fe88-4fbb-9883-e3af3c75fd99
+metaInfo:
+  hints:
+    []
+  tags:
+    []
+  lensName: NeonHairColour
+  lensDescriptors:
+    []
+  lensApplicableContext:
+    - live_camera
+    - reply_camera
+    - video_chat
+  lensApplicability:
+    - Front
+    - Back
+  lensClientCompatibilities:
+    - Mobile
+    - Web
+    - CameraKit
+  platformBundlesEnabled: false
+  iconHash: 4e608dc774414bce1d1d489f4f7e13c4
+  videoPreviewHash: bfcdbd27eb74221d254378fb426a77db
+  fromTemplateName: Hair Simulation
+  fromTemplateUrl: Lens Studio 5.20.0.26040820
+  activationCamera: Front
+  sourceMapEnabled: false
+  shaderCacheInvalidationEnabled: false
+  usingMinClientVersions: false
+  androidMinClientVersion:
+    major: 0
+    minor: 0
+    patch: 0
+    build: 0
+  iOSMinClientVersion:
+    major: 0
+    minor: 0
+    patch: 0
+    build: 0
+  documentId: 7c3f91bc-3b0c-4dc0-a1ec-6a1e9fe4160a
+  originalDocumentId: 51fb855a-072a-43a2-834c-a060f5f253f8
+  packageId: ""
+  packageVersion: ""
+  spkPrivilegeLevel: Generic
+  gluboEnabled: false
